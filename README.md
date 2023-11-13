@@ -1,2 +1,2 @@
-# CodeAlpha
-Build three tasks of codealpha internship the tasks are student grader system, online banking system, online quiz platform
+# CodeAlpha  Student Grade Tracker
+Build a  task of codealpha internship the tasks is Student Grade Tacker
